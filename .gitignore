@@ -1,0 +1,19 @@
+# Node.js Caches
+node_modules/
+
+# Log Files
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor Files
+.idea
+.vscode
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+
+# Application Files
+files/
